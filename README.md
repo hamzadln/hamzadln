@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="200" height="200"/>
 </div>
+
 - :telescope: I’m currently learning Nodejs, Web3, Solidity, IT Company Management.
 
 - :seedling: I’m looking to collaborate & exploring on Web3 Development, Implementation of Web3.
