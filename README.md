@@ -7,9 +7,9 @@
 
 
 ### :man_technologist: About Me :
-- :telescope: I’m currently learning Nodejs, Web3, Solidity, IT Company Management.
+- :telescope: Python, Nodejs, Web3, Solidity, IT Company Management.
 
-- :seedling: I’m looking to collaborate & exploring on Web3 Development, Implementation of Web3.
+- :seedling: I’m currently learning & exploring Machine Learning, Deep Learning, Web3 Development, Implementation of Web3.
 
 - :zap: In my free time, I code some random program.
 
