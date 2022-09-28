@@ -1,4 +1,5 @@
 ### Hi there 👋 My Name Is Hamzah!
+![](https://visitor-badge.laobi.icu/badge?page_id=hamzadln.hamzadln)
 🌱 I’m currently learning Nodejs, Web3, Solidity, IT Company Management.
 👯 I’m looking to collaborate on Web3 Development, Implementation of Web3.
 🤔 I’m looking for help with solidity usage development.
@@ -14,5 +15,4 @@
 </p>
 
 ## ⚡ Status:
-![](https://visitor-badge.laobi.icu/badge?page_id=hamzadln.hamzadln)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzadln&theme=tokyonight)
